@@ -1,0 +1,14 @@
+/.project
+*.class
+.classpath
+.settings/
+.gradle
+.gradle/
+.idea
+.idea/
+gradle-wrapper.jar
+gradle-wrapper.properties
+gradlew
+gradlew.bat
+settings.gradle
+build
